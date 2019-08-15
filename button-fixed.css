@@ -1,0 +1,11 @@
+/* Css By Dhununk */
+.ordercod,
+.button-fixed,
+.button-melayang,
+.melayang, 
+.button-sticky {
+	position: fixed;
+	bottom: 0;
+	z-index: 9999;
+	width: 100%;
+}
